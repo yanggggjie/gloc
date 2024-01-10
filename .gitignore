@@ -1,0 +1,7 @@
+/.idea/
+/.next/
+/.vercel/
+/node_modules/
+/.temp/
+.env
+.env.development.local
